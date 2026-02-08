@@ -17,7 +17,7 @@
 
 ```bash
 # クローン
-git clone git@github.com:coachtech-material/laravel-middleware-starter.git
+git clone https://github.com/coachtech-material/laravel-middleware-starter.git middleware-app-sample
 cd laravel-middleware-starter
 
 # 依存関係インストール
